@@ -99,7 +99,7 @@ print("Completed Step 3", quote = FALSE)
 names(merged_all) <- gsub("^t", "Time", names(merged_all))
 names(merged_all) <- gsub("^f", "Frequency", names(merged_all))
 
-# Substiture more descriptive names in some other columns
+# Substitute more descriptive names in some other columns
 
 names(merged_all) <- gsub("Acc", "Accelerometer", names(merged_all), fixed = TRUE)
 names(merged_all) <- gsub("Mag", "Magnitude", names(merged_all), fixed = TRUE)

@@ -13,7 +13,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Project Files
 -------------
-* [README.md](/READE.md): Explains how all of the scripts work and how they are connected.
+* [README.md](/README.md): Explains how all of the scripts work and how they are connected.
 * [CodeBook.md](/CodeBook.md): The code book that describes the variables, the data, and the transformations required to clean up the data.
 * [run_analysis.R](/run_analysis.R): The R file that performs the analysis and creates the tidy data set.
 * [read_tidy_data.R](/read_tidy_data.R): An R file that can be used to read the tidy data set.
